@@ -6,10 +6,10 @@ This repository provides an overview of all repositories in the organization. Th
 
 | Repository | Description | Team | Status |
 |-------------|-------------|------|-------|
-| [repo-directory](../repo-directory) | Lists all the repositories in the organization | platform-admins | active |
+| [repo-directory](https://github.com/ion-id/repo-directory) | Lists all the repositories in the organization | platform-admins | active |
 
 ## Private Repositories
 
 | Repository | Description | Team | Status |
 |-------------|-------------|------|-------|
-| [repo-template](../repo-template) | Template used for repo creation | platform-admins | active |
+| [repo-template](https://github.com/ion-id/repo-template) | Template used for repo creation | platform-admins | active |
