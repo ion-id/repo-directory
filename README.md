@@ -1,6 +1,6 @@
 # repo-directory
 
-This document provides an overview of all repositories in the organization. This provides links to both public repositories and private repositories accessible to only members of the organization. They are clearly separated below
+This document provides an overview of all repositories in the organization. This provides links to both public repositories and private repositories accessible to only members of the organization. They are clearly separated below.
 
 ## Public Repositories
 
