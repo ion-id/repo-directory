@@ -1,6 +1,6 @@
 # repo-directory
 
-This repository provides an overview of all repositories in the organization. This provides links to both public repositories and private repositories accessible to only members of the organization. They are clearly separated below. 
+This document provides an overview of all repositories in the organization. This provides links to both public repositories and private repositories accessible to only members of the organization. They are clearly separated below. 
 
 ## Public Repositories
 
@@ -12,4 +12,6 @@ This repository provides an overview of all repositories in the organization. Th
 
 | Repository | Description | Team | Status |
 |-------------|-------------|------|-------|
+| [ion-sandbox](https://github.com/ion-id/ion-sandbox) | Developer Sandbox utilities and documentation | developers | active | 
 | [repo-template](https://github.com/ion-id/repo-template) | Template used for repo creation | platform-admins | active |
+
