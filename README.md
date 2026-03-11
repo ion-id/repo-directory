@@ -7,6 +7,8 @@ This document provides an overview of all repositories in the organization. This
 | Repository | Description | Team | Status |
 |-------------|-------------|------|-------|
 | [repo-directory](https://github.com/ion-id/repo-directory) | Lists all the repositories in the organization | platform-admins | active |
+| [logistics](https://github.com/ion-id/logistics) | Document and other artefacts for ION logistics sector | platform-admins | active |
+
 
 ## Private Repositories
 
