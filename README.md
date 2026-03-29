@@ -17,8 +17,8 @@ This document provides an overview of all repositories in the organization. This
 
 | Repository | Description | Team | Status |
 |-------------|-------------|------|-------|
-| [ion-sandbox](https://github.com/ion-id/ion-sandbox) | Backend for developer dashboard and sandbox utilities | developers | active | 
-| [ion-sandbox-fe](https://github.com/ion-id/ion-sandbox-fe) | Frontend for developer dashboard and sandbox utilities | developers | active |
+| [ion-sandbox](https://github.com/ion-id/ion-sandbox) | Backend for NP developer portal and sandbox utilities | developers | active | 
+| [ion-sandbox-fe](https://github.com/ion-id/ion-sandbox-fe) | Frontend for NP developer portal and sandbox utilities | developers | active |
 | [repo-template](https://github.com/ion-id/repo-template) | Template used for repo creation | platform-admins | active |
 
 
