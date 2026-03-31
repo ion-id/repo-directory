@@ -20,6 +20,6 @@ This document provides an overview of all repositories in the organization. This
 | [ion-sandbox](https://github.com/ion-id/ion-sandbox) | Backend for NP developer portal and sandbox utilities | developers | active | 
 | [ion-sandbox-fe](https://github.com/ion-id/ion-sandbox-fe) | Frontend for NP developer portal and sandbox utilities | developers | active |
 | [repo-template](https://github.com/ion-id/repo-template) | Template used for repo creation | platform-admins | active |
-| [repo-template](https://github.com/ion-id/ion-public-website) | Repo for frontend codebase | ekaa-team | active |
+| [ion-public-website](https://github.com/ion-id/ion-public-website) | Repo for ion-public-website codebase | ekaa-team | active |
 
 
