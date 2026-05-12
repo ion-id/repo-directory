@@ -7,11 +7,12 @@ This document provides an overview of all repositories in the organization. This
 | Repository | Description | Team | Status |
 |-------------|-------------|------|-------|
 | [ion-docs](https://github.com/ion-id/ion-docs) | Common documents relevant to entire network | developers | active |
+| [ionONIX](https://github.com/indonesiaopennetwork/ionONIX) | This repo contains ONIX installation and test setup for ION | developers | active |
 | [logistics](https://github.com/ion-id/logistics) | Document and other artefacts for ION logistics sector | developers | active |
 | [trade](https://github.com/ion-id/trade) | Document and other artefacts for ION trade sector | developers | active |
 | [finance-credit](https://github.com/ion-id/finance-credit) | Document and other artefacts for ION credit sector | developers | active |
 | [repo-directory](https://github.com/ion-id/repo-directory) | This repo. Lists all the repositories in the organization | platform-admins | active |
-| [repo-directory](https://github.com/indonesiaopennetwork/ionONIX) | This repo contains ONIX installation and test setup for ION | developers | active |
+
 
 
 ## Private Repositories
