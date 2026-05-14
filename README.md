@@ -6,22 +6,24 @@ This document provides an overview of all repositories in the organization. This
 
 | Repository | Description | Team | Status |
 |-------------|-------------|------|-------|
-| [ion-docs](https://github.com/ion-id/ion-docs) | Common documents relevant to entire network | developers | active |
-| [ionONIX](https://github.com/indonesiaopennetwork/ionONIX) | This repo contains ONIX installation and test setup for ION | developers | active |
-| [logistics](https://github.com/ion-id/logistics) | Document and other artefacts for ION logistics sector | developers | active |
-| [trade](https://github.com/ion-id/trade) | Document and other artefacts for ION trade sector | developers | active |
-| [finance-credit](https://github.com/ion-id/finance-credit) | Document and other artefacts for ION credit sector | developers | active |
-| [repo-directory](https://github.com/ion-id/repo-directory) | This repo. Lists all the repositories in the organization | platform-admins | active |
+| [ion-docs](https://github.com/indonesiaopennetwork/ion-docs) | Common documents relevant to entire network | developers | active |
+| [ion-specs](https://github.com/indonesiaopennetwork/ion-specs) | Schema and specs for ION | developers | active |
+| [ion-onix](https://github.com/indonesiaopennetwork/ion-onix) | This repo contains ONIX installation and test setup for ION | developers | active |
+| [repo-directory](https://github.com/indonesiaopennetwork/repo-directory) | This repo. Lists all the repositories in the organization | platform-admins | active |
 
 
 
 ## Private Repositories
 
-| Repository | Description | Team | Status |
-|-------------|-------------|------|-------|
-| [ion-sandbox](https://github.com/ion-id/ion-sandbox) | Backend for NP developer portal and sandbox utilities | developers | active | 
-| [ion-sandbox-fe](https://github.com/ion-id/ion-sandbox-fe) | Frontend for NP developer portal and sandbox utilities | developers | active |
-| [repo-template](https://github.com/ion-id/repo-template) | Template used for repo creation | platform-admins | active |
-| [ion-public-website](https://github.com/ion-id/ion-public-website) | Repo for ion-public-website codebase | ekaa-team | active |
+| Repository | Description | Status |
+|-------------|-------------|-------|
+| [ion-sandbox](https://github.com/indonesiaopennetwork/ion-sandbox) | Backend for NP developer portal and sandbox utilities | active | 
+| [ion-sandbox-fe](https://github.com/indonesiaopennetwork/ion-sandbox-fe) | Frontend for NP developer portal and sandbox utilities | active |
+| [ion-public-website](https://github.com/indonesiaopennetwork/ion-public-website) | Repo for ion-public-website codebase | active |
+| [auth](https://github.com/indonesiaopennetwork/auth) | Onboarding portal backend | active |
+| [auth-fe](https://github.com/indonesiaopennetwork/auth-fe) | Onboarding portal frontend | active |
+| [ion-testbed](https://github.com/indonesiaopennetwork/ion-testbed) | ION Testbed | active |
+| [repo-template](https://github.com/indonesiaopennetwork/repo-template) | Template used for repo creation | active |
+
 
 
